@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Salidas del script (Excel generados)
+DD_*.xlsx
+
+# Datos geoespaciales de entrada (no versionar shapefiles reales)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qmd
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
