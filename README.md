@@ -1,4 +1,4 @@
-# Generador Masivo de Diccionarios de Datos desde Shapefiles
+# Generador Masivo de diccionarios de datos a partir Shapefiles
 
 Script en Python que escanea recursivamente una carpeta y genera, por cada
 shapefile (`.shp`) que encuentra, un archivo Excel con su **diccionario de
